@@ -1,3 +1,3 @@
 # demo
-This is my demo Git Repository
+This is my demo Git Repository.
 Name : rajan
