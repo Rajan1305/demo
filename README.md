@@ -1,3 +1,3 @@
 # demo
 This is my demo Git Repository. <br>
-Name : rajan
+Name : Rajan
